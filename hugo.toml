@@ -1,0 +1,4 @@
+baseURL = 'https://Battista-Sudul.github.io/'
+languageCode = 'fr-fr'
+title = 'BouAndBou'
+theme = "stack"
