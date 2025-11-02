@@ -1,2 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BouAndBou</title><link>https://Battista-Sudul.github.io/</link><description>Recent content on BouAndBou</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Sat, 01 Nov 2025 18:57:18 +0100</lastBuildDate><atom:link href="https://Battista-Sudul.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Premier Article</title><link>https://Battista-Sudul.github.io/posts/premier-article/</link><pubDate>Sat, 01 Nov 2025 18:57:18 +0100</pubDate><guid>https://Battista-Sudul.github.io/posts/premier-article/</guid><description>&lt;h1 id="bienvenue-sur-ce-nouveau-blog"&gt;Bienvenue sur ce nouveau blog!
-&lt;/h1&gt;&lt;p&gt;Premier test du &lt;strong&gt;Markdown&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BouAndBou</title><link>https://Battista-Sudul.github.io/</link><description>Recent content on BouAndBou</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Sat, 01 Nov 2025 18:57:18 +0100</lastBuildDate><atom:link href="https://Battista-Sudul.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Premier Article</title><link>https://Battista-Sudul.github.io/posts/premier-article/</link><pubDate>Sat, 01 Nov 2025 18:57:18 +0100</pubDate><guid>https://Battista-Sudul.github.io/posts/premier-article/</guid><description>&lt;h1 id="recette-chai-latte"&gt;Recette Chai latte
+&lt;/h1&gt;&lt;p&gt;Premier test du &lt;strong&gt;Markdown&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Qu&amp;rsquo;est ce qu&amp;rsquo;un blocquote ?
+Ca permet de faire une section à part par exemple, comme un side note&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src="https://Battista-Sudul.github.io/images/profileblog.jpeg"
+loading="lazy"
+alt="photo de nous 2 :)"
+&gt;&lt;/p&gt;
+&lt;h2 id="sous-titre"&gt;Sous titre
+&lt;/h2&gt;&lt;h3 id="sous-sous-titre"&gt;Sous-sous titre
+&lt;/h3&gt;</description></item></channel></rss>
